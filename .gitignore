@@ -1,0 +1,12 @@
+/.cache/
+/.coverage
+/.mr.developer.cfg
+/.installed.cfg
+/bin/
+/develop-eggs/
+/htmlcov/
+/include/
+/lib/
+/mr.awsome*/
+/share/
+/src/
