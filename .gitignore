@@ -4,6 +4,7 @@
 /.installed.cfg
 /bin/
 /develop-eggs/
+/_build/
 /htmlcov/
 /include/
 /lib/
