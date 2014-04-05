@@ -1,0 +1,18 @@
+[submodule "mr.awsome"]
+	path = mr.awsome
+	url = https://github.com/fschulze/mr.awsome.git
+[submodule "mr.awsome.ansible"]
+	path = mr.awsome.ansible
+	url = https://github.com/fschulze/mr.awsome.ansible.git
+[submodule "mr.awsome.ec2"]
+	path = mr.awsome.ec2
+	url = https://github.com/fschulze/mr.awsome.ec2.git
+[submodule "mr.awsome.ezjail"]
+	path = mr.awsome.ezjail
+	url = https://github.com/fschulze/mr.awsome.ezjail.git
+[submodule "mr.awsome.fabric"]
+	path = mr.awsome.fabric
+	url = https://github.com/fschulze/mr.awsome.fabric.git
+[submodule "mr.awsome.openvz"]
+	path = mr.awsome.openvz
+	url = https://github.com/fschulze/mr.awsome.openvz.git
