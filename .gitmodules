@@ -16,3 +16,6 @@
 [submodule "mr.awsome.openvz"]
 	path = mr.awsome.openvz
 	url = https://github.com/fschulze/mr.awsome.openvz.git
+[submodule "mr.awsome.virtualbox"]
+	path = mr.awsome.virtualbox
+	url = https://github.com/fschulze/mr.awsome.virtualbox.git

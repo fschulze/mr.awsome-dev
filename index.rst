@@ -22,6 +22,7 @@ Plugins
    mr.awsome.ezjail.rst
    mr.awsome.fabric.rst
    mr.awsome.openvz.rst
+   mr.awsome.virtualbox.rst
 
 
 Indices and tables
