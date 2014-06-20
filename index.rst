@@ -1,15 +1,15 @@
-.. mr.awsome documentation master file, created by
+.. ploy documentation master file, created by
    sphinx-quickstart on Sat Apr  5 11:02:29 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mr.awsome's documentation!
-=====================================
+Welcome to ploy's documentation!
+================================
 
 .. toctree::
    :maxdepth: 2
 
-   mr.awsome.rst
+   ploy.rst
 
 Plugins
 -------
@@ -17,12 +17,12 @@ Plugins
 .. toctree::
    :maxdepth: 2
 
-   mr.awsome.ansible.rst
-   mr.awsome.ec2.rst
-   mr.awsome.ezjail.rst
-   mr.awsome.fabric.rst
-   mr.awsome.openvz.rst
-   mr.awsome.virtualbox.rst
+   ploy_ansible.rst
+   ploy_ec2.rst
+   ploy_ezjail.rst
+   ploy_fabric.rst
+   ploy_openvz.rst
+   ploy_virtualbox.rst
 
 
 Indices and tables

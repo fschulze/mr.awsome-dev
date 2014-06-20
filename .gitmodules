@@ -1,21 +1,21 @@
-[submodule "mr.awsome"]
-	path = mr.awsome
-	url = https://github.com/fschulze/mr.awsome.git
-[submodule "mr.awsome.ansible"]
-	path = mr.awsome.ansible
-	url = https://github.com/fschulze/mr.awsome.ansible.git
-[submodule "mr.awsome.ec2"]
-	path = mr.awsome.ec2
-	url = https://github.com/fschulze/mr.awsome.ec2.git
-[submodule "mr.awsome.ezjail"]
-	path = mr.awsome.ezjail
-	url = https://github.com/fschulze/mr.awsome.ezjail.git
-[submodule "mr.awsome.fabric"]
-	path = mr.awsome.fabric
-	url = https://github.com/fschulze/mr.awsome.fabric.git
-[submodule "mr.awsome.openvz"]
-	path = mr.awsome.openvz
-	url = https://github.com/fschulze/mr.awsome.openvz.git
-[submodule "mr.awsome.virtualbox"]
-	path = mr.awsome.virtualbox
-	url = https://github.com/fschulze/mr.awsome.virtualbox.git
+[submodule "ploy"]
+	path = ploy
+	url = https://github.com/ployground/ploy.git
+[submodule "ploy_ansible"]
+	path = ploy_ansible
+	url = https://github.com/ployground/ploy_ansible.git
+[submodule "ploy_ec2"]
+	path = ploy_ec2
+	url = https://github.com/ployground/ploy_ec2.git
+[submodule "ploy_ezjail"]
+	path = ploy_ezjail
+	url = https://github.com/ployground/ploy_ezjail.git
+[submodule "ploy_fabric"]
+	path = ploy_fabric
+	url = https://github.com/ployground/ploy_fabric.git
+[submodule "ploy_openvz"]
+	path = ploy_openvz
+	url = https://github.com/ployground/ploy_openvz.git
+[submodule "ploy_virtualbox"]
+	path = ploy_virtualbox
+	url = https://github.com/ployground/ploy_virtualbox.git
