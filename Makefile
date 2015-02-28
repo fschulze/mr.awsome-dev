@@ -26,11 +26,7 @@ all: .installed.cfg
 bin/python:
 	virtualenv --clear .
 
-bin/ansible: bin/python
-	bin/pip install --upgrade --force-reinstall ansible
-	touch bin/ansible
-
-bin/buildout: bin/python bin/ansible
+bin/buildout: bin/python
 	bin/pip install --upgrade --force-reinstall zc.buildout
 	touch bin/buildout
 
