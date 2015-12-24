@@ -21,7 +21,6 @@ Plugins
    ploy_ec2.rst
    ploy_ezjail.rst
    ploy_fabric.rst
-   ploy_openvz.rst
    ploy_virtualbox.rst
 
 

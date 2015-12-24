@@ -13,9 +13,6 @@
 [submodule "ploy_fabric"]
 	path = ploy_fabric
 	url = https://github.com/ployground/ploy_fabric.git
-[submodule "ploy_openvz"]
-	path = ploy_openvz
-	url = https://github.com/ployground/ploy_openvz.git
 [submodule "ploy_virtualbox"]
 	path = ploy_virtualbox
 	url = https://github.com/ployground/ploy_virtualbox.git
