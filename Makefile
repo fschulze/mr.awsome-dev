@@ -24,7 +24,7 @@ I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 all: .installed.cfg
 
 bin/python:
-	virtualenv --clear .
+	virtualenv -p python2.7 .
 
 bin/buildout: bin/python
 	bin/pip install --upgrade --force-reinstall zc.buildout
