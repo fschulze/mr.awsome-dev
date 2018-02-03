@@ -6,7 +6,7 @@
 /develop-eggs/
 /eggs/
 /_build/
-/htmlcov/
+/htmlcov*/
 /include/
 /lib/
 /ploy*/
